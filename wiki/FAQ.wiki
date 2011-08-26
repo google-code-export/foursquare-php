@@ -1,5 +1,5 @@
+#summary Frequently Asked questions
 #labels Featured,Phase-Deploy
-#Frequently Asked questions
 
 == Installation issues==
 
